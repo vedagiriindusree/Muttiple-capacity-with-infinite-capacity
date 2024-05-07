@@ -21,6 +21,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Program
 Developed By:Vedagiri Indu Sree
+
 Reg No:212223230236
 ![image](https://github.com/vedagiriindusree/Muttiple-capacity-with-infinite-capacity/assets/149366776/838867da-3461-4608-bfb0-181d0a443ed4)
 
